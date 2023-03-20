@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>Welcome to My Website</title>
+</head>
+<body>
+    <!--Navigation List Section-->
+    <div class="Navigation">
+        <div class="navbar">
+        <nav>
+            <ul>
+            <li><a href="#" type="blank">Home</a></li>
+            <li><a href="#" type="blank">About Me</a></li>
+            <li><a href="#" type="blank">Blog</a></li>
+            <li><a href="#" type="blank">Social Media</a></li>
+            </ul>
+        </nav>
+        </div>
+    
+    <!--Introduce my self-->
+        
+            <div class="Intro">
+                <h1>Hi, I'm Muhammad Fadhil. <br>Your Digital <br>Marketing Consultant</h1><br>
+                <h3>Welcome to My Website: I'm doing freelancer project related to Digital Marketing, Facebook Advertising and E-commerce</h3>
+
+                <div>
+                    <button type="button"><h2><span></span>Getting to Know More</h2></button>
+                    <button type="button"><h2><span></span>Follow For More</h2></button>
+                </div>
+            </div>
+            
+        </div>
+</body>
+</html>
